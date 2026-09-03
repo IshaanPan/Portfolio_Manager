@@ -4,3 +4,4 @@ needlessly complicated. Instead, the code now tracks the total shares owned in a
 the stocks owned, the total portfolio value is known. Method in the class from construct_tracker() onwards were made by AI, but everything else was hand coded by me. The following output can be seen from this code:
 <img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/a57c8bf4-b044-441d-a4bb-1a0171c29c4b" />
 
+For comparison, at the same time as this image was made, the Revolut live tracking portfolio value was 769.42 EUR. A difference because of Yahoo Finances non real-time information.
